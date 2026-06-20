@@ -18,28 +18,28 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a Data Science graduate student at the **University of Central Oklahoma**
 (graduating December 2026), working as a Graduate Research Assistant on ECG
 arrhythmia detection. My goal is to become a Data Scientist in **healthtech**
 building AI systems that make a real difference in clinical care.
 
-- 🔬 Research: ECG data summarization using MIT-BIH database — **88.8% accuracy**
-- 🏥 Passionate about AI applications in healthcare and clinical decision support
-- 📚 Currently: multi-agent AI systems, RAG pipelines, LLMs, deep learning
-- 🌏 From Nepal · Based in Oklahoma · Headed to SF someday
+- Research: ECG data summarization using MIT-BIH database — **88.8% accuracy**
+- Passionate about AI applications in healthcare and clinical decision support
+- Currently: multi-agent AI systems, RAG pipelines, LLMs, deep learning
+- From Nepal · Based in Oklahoma · Headed to SF someday
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
 |**ClinicalMind** | Multi-modal ICU mortality prediction using MIMIC-IV — structured data, time-series vitals & clinical notes | PyTorch, BioBERT, SQL, FastAPI |
-| 🤖 **MedRAG** | Medical Q&A system using retrieval-augmented generation built on clinical literature | ChromaDB, Claude API, Python |
-| 🧬 **Metabolic Syndrome Study** | Biomarker discovery from CDC NHANES data using logistic regression — 81% accuracy | R, tidyverse |
-| 🔢 **Neural Net from Scratch** | Fully connected neural network built with NumPy only — **96% accuracy** on Breast Cancer dataset | NumPy, Python |
+| **MedRAG** | Medical Q&A system using retrieval-augmented generation built on clinical literature | ChromaDB, Claude API, Python |
+| **Metabolic Syndrome Study** | Biomarker discovery from CDC NHANES data using logistic regression — 81% accuracy | R, tidyverse |
+| **Neural Net from Scratch** | Fully connected neural network built with NumPy only — **96% accuracy** on Breast Cancer dataset | NumPy, Python |
 
 ---
 
@@ -83,10 +83,10 @@ building AI systems that make a real difference in clinical care.
 
 ## Fellowships, Scholarships & Recognition
 
-- 🏥 **Microsoft Elevate Fellow** — J Healthcare Initiative (2026)
-- 🏆 **Helen Chastain Memorial Scholarship** — UCO Department of Mathematics and Statistics (2026)
-- 🎤 Presenter — Oklahoma Research Day 2026
-- 🎤 Presenter — MAA Oklahoma-Arkansas Section 87th Annual Meeting
+- **Microsoft Elevate Fellow** — J Healthcare Initiative (2026)
+- **Helen Chastain Memorial Scholarship** — UCO Department of Mathematics and Statistics (2026)
+- Presenter — Oklahoma Research Day 2026
+- Presenter — MAA Oklahoma-Arkansas Section 87th Annual Meeting
 
 ---
 
