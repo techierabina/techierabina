@@ -83,10 +83,6 @@ else:
 ---
 
 ### 📈 the stats no one asked for but everyone screenshots
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techierabina&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techierabina&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
