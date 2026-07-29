@@ -21,7 +21,7 @@
 
 ### 🩺 the elevator pitch
 
-I'm a **Data Science grad student at the University of Central Oklahoma** (graduating Dec 2026), spending my days somewhere between hospital data and hospital-grade deadlines. By day I'm the **CMO of FMT Groups**, running marketing strategy for Nepali diaspora businesses worldwide. By night (and most weekends, if I'm honest) I'm buried in ICU vitals, RNA structures, and ECG waveforms, trying to build my way into a PhD in **computational biology / health AI**.
+I'm pursuing a Master's in **Data Science** at the University of Central Oklahoma (graduating May 2027). My interests include machine learning, computational biology, and health AI, with experience working on biomedical datasets such as ECG signals, ICU patient data, and RNA analysis. My long term goal is to pursue a PhD and contribute to AI-driven healthcare research.
 
 ```python
 if coffee > 0:
@@ -31,11 +31,10 @@ else:
 ```
 
 - 🔬 Currently building **ClinicalMind** — multimodal ICU mortality prediction on MIMIC-IV (structured data + vitals + clinical notes)
-- 🧬 Side quest: applying SVD/DEIM dimensionality reduction to **RNA structure ensembles** for a computational biology track
+- 🧬 Side quest: building a stronger foundation in computational biology and bioinformatics
 - 📊 GRA research: **92.8% average detection accuracy** across 10 arrhythmia classes using DoubleRR beat segmentation on MIT-BIH ECG data
 - 🎤 Turned that research into a talk at MAA Oklahoma-Arkansas and a poster at Oklahoma Research Day
-- 💌 Cold-emailing PhD faculty like it's a full-time job (because right now, it kind of is)
-- 🇳🇵 Nepali, ex–VP of CSITAN (ran coding workshops focused on gender equity), forever loyal to my hometown's momos
+- 🇳🇵 Nepali, ex–VP of CSITAN (ran coding workshops focused on gender equity)
 
 ---
 
@@ -43,11 +42,11 @@ else:
 
 | project | what it does | stack |
 |---|---|---|
-| **[MedRAG](https://github.com/techierabina/MEDRAG)** | RAG-based medical Q&A over 488 chunks from 55 MedlinePlus topics — because Googling symptoms deserves better | ChromaDB, Groq LLaMA 3.3, Gradio |
+| **[MedRAG](https://github.com/techierabina/MEDRAG)** | RAG-based medical Q&A over 12,000+ chunks (MedlinePlus + PubMed) using semantic search + LLaMA 3.3 — because Googling symptoms deserves better | ChromaDB, all-MiniLM-L6-v2, Groq LLaMA 3.3, Gradio
 | **[SmartData Agent](https://smartdataagent.streamlit.app)** | agentic CSV/JSON analysis — upload data, get insights, skip the boring part | Groq LLaMA 3.3 70B, Streamlit |
 | **Symptom Severity Checker** | hybrid rule-based + zero-shot NLI, live on Hugging Face Spaces | HF Transformers |
 | **ClinicalMind** *(in progress)* | multimodal ICU mortality prediction on MIMIC-IV | PyTorch, BioBERT, SQL, FastAPI |
-| **ECG Arrhythmia Detection** | SVD/DEIM-based dimensionality reduction on MIT-BIH — 92.8% accuracy across 10 classes | MATLAB, signal processing |
+| **ECG Research** | DEIM based dimensionality reduction on MIT-BIH, which achieved 92.8% accuracy across 10 classes | MATLAB, signal processing |
 
 ---
 
@@ -74,33 +73,30 @@ else:
 </p>
 
 ---
-
-### 📈 the stats no one asked for but everyone screenshots
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techierabina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techierabina&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techierabina&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
 ### 🏅 receipts
 
 - 🎓 **Helen Chastain Memorial Scholarship** — Issued by University of Central Oklahoma, Department of Mathematics and Statistics, 2026
 - 💰 **UCO Student RCSA (Research, Creative, and Scholarly Activities) Grant** — Issued by University of Central Oklahoma, Office of High-Impact Practices, 2026
 - 🎤 **Talk** — *"Beat Segmentation Effects on Electrocardiogram Summarization using the Discrete Empirical Interpolation Method"* — 15-Minute Contributed Talk, 87th Annual Meeting of the Oklahoma–Arkansas Section of the MAA, University of Arkansas at Little Rock (2026)
 - 📊 **Poster** — *"Electrocardiogram Summarization with Different Beat Segmentations"* — Oklahoma Research Day, Apr 2026
-- 🧠 Building toward Fall 2027 PhD applications in comp bio / health AI
 
 ---
 
+### 📈 the stats no one asked for but everyone screenshots
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techierabina&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techierabina&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techierabina&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+---
+
+
 ### 💬 let's talk
 
-I document the whole ride — research fails, fellowship applications, late-night debugging, PhD outreach anxiety and all — over on **[@datawithrabina](https://instagram.com/datawithrabina)**. If you're also in healthtech, data science, or just enjoy watching someone cold-email professors for sport, come say hi.
+I'm documenting my journey: research fails, fellowship applications, late-night debugging, PhD outreach anxiety, and all over on **[@datawithrabina](https://instagram.com/datawithrabina)**. If you're also in healthtech, data science, or just enjoy watching someone cold-email professors for sport, come say hi.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rabina-karki-0a7546344/">LinkedIn</a> ·
