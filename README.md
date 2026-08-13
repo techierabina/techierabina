@@ -1,10 +1,8 @@
 <h1 align="center">hey, I'm Rabina 👋</h1>
 <h3 align="center">turning messy data into things that (hopefully) save lives someday</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CC785C&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+UCO;Building+ClinicalMind+on+MIMIC-IV;CMO+by+day%2C+researcher+by+night;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%86%92+Oklahoma+%F0%9F%87%BA%F0%9F%87%B8+%E2%86%92+wherever+the+PhD+takes+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CC785C&center=true&vCenter=true&width=600&lines=MS+Data+Science+%40+UCO;Building+ClinicalMind+on+MIMIC-IV;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%86%92+Oklahoma+%F0%9F%87%BA%F0%9F%87%B8+%E2%86%92+wherever+the+PhD+takes+me" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/datawithrabina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,7 +14,6 @@
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ### 🩺 the elevator pitch
