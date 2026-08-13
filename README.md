@@ -18,7 +18,7 @@
 
 ### 🩺 the elevator pitch
 
-I'm pursuing a Master's in **Data Science** at the University of Central Oklahoma (graduating May 2027). My interests include machine learning, computational biology, and health AI, with experience working on biomedical datasets such as ECG signals, ICU patient data, and RNA analysis. My long term goal is to pursue a PhD and contribute to AI-driven healthcare research.
+I'm pursuing a Master's in **Data Science** at the University of Central Oklahoma (graduating May 2027). My interests include machine learning, computational biology, and health AI, with experience working on biomedical datasets such as ECG signals, ICU patient data, and RNA analysis. My long term goal is to pursue a PhD and contribute to computational biology and contribute to healthcare research.
 
 ```python
 if coffee > 0:
